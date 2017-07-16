@@ -1,0 +1,5 @@
+Access Token		835635824070885376-M9gTiFpSR449Wua7jsIXjpb7z2Wjbv4
+Access Token Secret	7zP2ApHr8QPMn4LVXBhhZE9asWlG72b0D4kyz6KGphILi
+Access Level		Read and write
+Owner			InstaYak
+Owner ID		835635824070885376
