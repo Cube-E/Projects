@@ -1,0 +1,1 @@
+This school project is an application that serializes/deserializes messages that are then uploaded to Twitter.
